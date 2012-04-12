@@ -27,6 +27,9 @@ include('./include/dbconnect.php');
  {
  $ssstmnt="insert into search_entry values('$find','')";
  mysql_query($ssstmnt);
+ $newstmt="delete from search_entry where id = (select * from (
+ select id from search_entry order by id desc limit 5,1) as t)";
+ mysql_query($newstmt);
  }
  $maxss = 'LIMIT 0,5'; 
 $stmnt = mysql_query("SELECT * FROM search_entry ORDER BY id DESC $maxss") or die(mysql_error());
