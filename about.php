@@ -132,17 +132,16 @@ The <strong>Computer Science and Engineering Association (CSEA) </strong> is an 
     </p>
   </blockquote>
 </blockquote>
-<a1>
-Arnab </br>
+<div>
+<p> Arnab</p>
 
-Dhandeep Jain</br>
+<p>Dhandeep Jain </p>
 
-Ramnath </br>
+<p> Ramnath  </p>
 
-Sumesh </br>
+<p> Sumesh </p>
 
-</br>
-</a1>
+</div>
 
 <blockquote>
   <blockquote>
@@ -151,44 +150,44 @@ Sumesh </br>
     </p>
   </blockquote>
 </blockquote>
-<a2>   
-Aviral      </br> 
+<div>   
+<p>Aviral      </p> 
 
-Kartik Singhal </br>                            
+<p>Kartik Singhal </p>                            
 
-Pankaj        </br>                                                         
+<p>Pankaj        </p>                                                         
 
-Snehal Chauhan   </br>
+<p>Snehal Chauhan   </p>
 
-Silpa   </br></br>
-</a2>
+<p>Silpa  </p>
+</div>
 <blockquote>
   <blockquote>
     <p><span class="style1"> SECOND YEARS</span>
     </p>
   </blockquote>
 </blockquote>
-<a3>
-Anirban Das</br>
+<div>
+<p>Anirban Das</p>
 
-Ayush Jaiswal </br>
+<p>Ayush Jaiswal </p>
 
-Arun Rajan </br>
+<p>Arun Rajan </p>
 
-Bandna Kumari</br>
+<p>Bandna Kumari</p>
 
-Harsha  Raj </br>
+<p>Harsha  Raj </p>
 
-Nikita Mathew </br>
+<p>Nikita Mathew </p>
 
-Pooja Prajod </br>
+<p>Pooja Prajod </p>
 
-Poojitha   </br>
+<p>Poojitha   </p>
 
-Roshan Piyush   </br> 
+<p>Roshan Piyush   </p> 
 
-Vidhu Chauhan </br></br>          
-</a3>
+<p>Vidhu Chauhan </p>        
+</div>
 
  
 
