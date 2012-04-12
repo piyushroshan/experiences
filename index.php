@@ -56,7 +56,7 @@ mysql_close();
 <!-- start header -->
 <div id="header">
 	<div id="logo">
-		<h1><a href="index.php">EXPERIENCES<sup>1.0</sup></a></h1>
+		<h1><a href="index.php">EXPERIENCES<sup>alpha</sup></a></h1>
 		<h2>By CSEA NITC</h2>
 	</div>
 	<div id="menu">

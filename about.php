@@ -63,7 +63,7 @@ Description: A two-column, fixed-width and lightweight template ideal for 1024x7
 
 	<div id="logo">
 
-		<h1><a href="index.php">EXPERIENCES<sup>1.0</sup></a></h1>
+		<h1><a href="index.php">EXPERIENCES<sup>alpha</sup></a></h1>
 
 		<h2>By CSEA NITC</h2>
 
